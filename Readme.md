@@ -2,6 +2,4 @@
 
 Este é um repositório para ensinar como Git funciona.
 
-teste
-
-teste 2
+Teste de como subir arquivo.
